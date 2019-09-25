@@ -1,0 +1,4 @@
+Run the cell below to create your first Rasa project. You may see tensorflow print some warnings, 
+but you can safely ignore these. The rasa init command creates the files that make up a Rasa project. 
+This includes training data and some configuration files. 
+It will also train your first model, using some example training data.
