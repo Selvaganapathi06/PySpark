@@ -1,3 +1,2 @@
 # Technology
-Technology -PySPark
-Operations Of PySpark
+Technology-Deep Dive Of PySpark
